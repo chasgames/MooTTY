@@ -65,7 +65,7 @@ From the [latest release](https://github.com/chasgames/MooTTY/releases/latest):
 | **Your own sync** Settings and host list sync through a secret gist on your GitHub account | ✅ | ❌ |
 | **Keychain passwords** Stored by the OS, never in the config file, never synced | ✅ | ❌ |
 | **Live plot** Click any number in terminal output and graph it over time | ✅ | ❌ |
-| **Port forwarding** Local, remote and dynamic SOCKS tunnels | ❌ | ✅ |
+| **Port forwarding** Local, remote and dynamic SOCKS tunnels | ✅ | ✅ |
 | **Integrated SFTP** Same connection, drag-and-drop upload, recursive folder download, download-as-zip, open remote files locally | ✅ | ✅ |
 | **Follow mode** The SFTP panel tracks the terminal's working directory | ✅ | ❌ |
 | **Multi-session** Tabs, split layouts (columns / rows / grid) and broadcast typing to every terminal | ✅ | ✅ |
